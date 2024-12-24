@@ -1,2 +1,6 @@
 testing the file
-if(variable != undefined && variable != null)
+if(result != undefined && result != null)
+
+
+testing the file
+if(result != undefined && result != null)
